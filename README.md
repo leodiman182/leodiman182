@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @leodiman182
-- 👀 I’m interested in becoming a better version of myself!
-- 🌱 I’m currently learning the basics of front-end programming!
-- 💞️ I’m looking to collaborate on as many projects as I can!
-- 📫 How to reach me - Instagram @leodiman182
+:space_invader:
+
+It is not that long that I joined the coding world, but I am already completely stoked about it and my goal is to learn as much as I can!
+Each right code feels like lemonade in a hot summer! :sunny:
+
+I started learning Web development - HTML, CSS and JavaScript!
