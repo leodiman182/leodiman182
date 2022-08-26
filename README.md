@@ -13,7 +13,6 @@ Eu programo para me encontrar e impactar a vida das pessoas.</p>
 *I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
 <br>
 I code to find myself and impact people's lives.*
-<br><br>
 
 <h4>Experiência/ Experience:</h4>
 
