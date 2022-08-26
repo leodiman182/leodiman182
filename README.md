@@ -1,8 +1,7 @@
-:space_invader:<h2>Leonardo Diman Martins</h2> :space_invader:
-
+<h1>Leonardo Diman Martins</h1> 
 <h3>Front-end Developer at <strong>AGA Tecnologia</strong></h3>
 
-Hello there! I'm <strong>Leo</strong>!
+Hello there! I'm <strong>:space_invader: Leo :space_invader:</strong>!
 
 I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I've started studying web development in 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development. 
 <br>
