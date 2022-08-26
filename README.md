@@ -1,7 +1,7 @@
-<h1>Leonardo Diman Martins</h1> 
+<h1>Leonardo Diman Martins :space_invader:</h1> 
 <h3>Front-end Developer at <strong>AGA Tecnologia</strong></h3>
 
-Hello there! I'm <strong>:space_invader: Leo :space_invader:</strong>!
+Hello there! I'm <strong>Leo</strong>!
 
 <h4>Bio</h4>
 
