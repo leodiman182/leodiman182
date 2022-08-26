@@ -22,4 +22,4 @@ My favorite stacks:
 
 You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182 &layout=compact />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
