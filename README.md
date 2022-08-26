@@ -10,7 +10,13 @@ I wish to specialize in React Native development.
 
 My favorite stacks:
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Node.js-339933?logo=node&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=flat" />
 
 
 <!-- 
