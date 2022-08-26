@@ -5,7 +5,7 @@ Hello there! I'm <strong>:space_invader: Leo :space_invader:</strong>!
 
 I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I've started studying web development in 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development. 
 <br>
-I wish to specialize in React Native development.
+I wish to specialize in React Native.
 
 My favorite stacks:
 
