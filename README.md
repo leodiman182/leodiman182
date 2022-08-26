@@ -9,7 +9,7 @@ I am a front-end developer passionated by technology, design and music! Born in 
 <br>
 I wish to specialize in React Native.
 
-My favorite stacks:
+<h4>My favorite stacks:</h4>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
@@ -26,7 +26,7 @@ You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
 
-I am familiar with: 
+<h4>I'm familiar with:</h4>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 
