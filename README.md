@@ -24,9 +24,12 @@ I wish to specialize in React Native.
 <h4>Contact</h4>
 You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
-
 <h4>I'm familiar with:</h4>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 
+<h4>Informative</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
+
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
