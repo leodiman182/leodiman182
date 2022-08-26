@@ -6,16 +6,18 @@ Olá! Eu sou o <strong>Leo</strong>! <br>
 
 <h4>Bio</h4>
 
-Eu sou um desenvolvedor front-end apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Eu comecei a estudar desenvolvimento web em 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
+<p>Eu sou um desenvolvedor front-end apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Sempre encantado pelo mundo e suas diferentes culturas, me formei em Relações Internacionais. Busquei a transição de carreira através da Trybe, onde tive uma formação completa em Desenvolvimento Web. Eu comecei a estudar em Julho de 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
 <br>
-Eu programo para me encontrar e impactar a vida das pessoas.
+Eu programo para me encontrar e impactar a vida das pessoas.</p>
 
-*I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I've started studying web development in 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
+*I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
 <br>
 I code to find myself and impact people's lives.*
 <br><br>
 
-<h4>Minhas linguagens favoritas/My favorite stacks:</h4>
+<h4>Experiência/ Experience:</h4>
+
+<h4>Minhas linguagens favoritas/ My favorite stacks:</h4>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
@@ -27,7 +29,7 @@ I code to find myself and impact people's lives.*
 * <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=flat" />
 
-<h4>Estou acostumado com/I'm familiar with:</h4>
+<h4>Estou acostumado com/ I'm familiar with:</h4>
 
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
