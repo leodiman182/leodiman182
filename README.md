@@ -7,6 +7,8 @@ Hello there! I'm <strong>Leo</strong>!
 
 I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I've started studying web development in 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development. 
 <br>
+I code to find myself and impact people's lives.
+<br><br>
 I wish to specialize in React Native.
 
 <h4>My favorite stacks:</h4>
