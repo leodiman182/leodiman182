@@ -1,7 +1,8 @@
 <h1>Leonardo Diman Martins :space_invader:</h1> 
 <h3>Front-end Developer</strong></h3>
 
-Hello there! I'm <strong>Leo</strong>!
+*Olá! Eu sou o <strong>Leo</strong>!
+*Hello there! I'm <strong>Leo</strong>*!
 
 <h4>Bio</h4>
 
