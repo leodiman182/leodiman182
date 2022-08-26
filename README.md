@@ -9,7 +9,7 @@ I am a front-end developer passionated by technology, design and music! Born in 
 <br>
 I code to find myself and impact people's lives.
 <br><br>
-I wish to specialize in React Native.
+<!-- I wish to specialize in React Native. -->
 
 <h4>My favorite stacks:</h4>
 
