@@ -10,14 +10,12 @@ I wish to specialize in React Native development.
 
 My favorite stacks:
 
-<a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px"></a>
-
-* [![React][React.js]][https://pt-br.reactjs.org/]
-* [![React][React Native]][https://reactnative.dev/docs/getting-started]
-* [![Vue][Vue.js]][https://vuejs.org/guide/introduction.html]
-* [![Node][Node.js]][https://nodejs.org/en/]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Tailwind][TailwindCSS]][https://v2.tailwindcss.com/docs]
-* [![Bootstrap][Bootstrap.com]][https://getbootstrap.com/docs/4.1/getting-started/introduction/]
+* <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">React.js</a>
+* <a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">React Native</a>
+* <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">Vue.js</a>
+* <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">Node.js</a>
+* <a href="https://laravel.com/docs/7.x" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">Laravel</a>
+* <a href="https://v2.tailwindcss.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">TailwindCSS</a>
+* <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" style="width:25px">BootstrapCSS</a>
 
 You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
