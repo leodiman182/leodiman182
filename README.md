@@ -1,4 +1,4 @@
-:space_invader: Leonardo Diman Martins :space_invader:
+:space_invader:<h2>Leonardo Diman Martins</h2> :space_invader:
 
 <h3>Front-end Developer at <strong>AGA Tecnologia</strong></h3>
 
