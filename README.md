@@ -16,7 +16,9 @@ I code to find myself and impact people's lives.*
 <br><br>
 
 <h4>Minhas linguagens favoritas</h4>
+<br>
 <em>My favorite stacks:</em>
+<br>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
