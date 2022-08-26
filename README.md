@@ -15,6 +15,7 @@ My favorite stacks:
 * <img src="https://img.shields.io/badge/Node.js-339933?logo=node&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=white&style=flat" />
 
