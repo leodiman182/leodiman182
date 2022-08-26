@@ -15,10 +15,7 @@ Eu programo para me encontrar e impactar a vida das pessoas.
 I code to find myself and impact people's lives.*
 <br><br>
 
-<h4>Minhas linguagens favoritas</h4>
-<br>
-<em>My favorite stacks:</em>
-<br>
+<h4>Minhas linguagens favoritas/My favorite stacks:</h4>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
@@ -30,13 +27,13 @@ I code to find myself and impact people's lives.*
 * <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=flat" />
 
-<h4>Estou acostumado com</h4>
-*I'm familiar with:*
+<h4>Estou acostumado com/I'm familiar with:</h4>
+
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
 
-<h4>Contato</h4>
-*Contact:*
+<h4>Contato/Contact:</h4>
+
 You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
 
 <h4>Info</h4>
