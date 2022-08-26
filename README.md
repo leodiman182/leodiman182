@@ -21,12 +21,12 @@ I wish to specialize in React Native.
 * <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=flat" />
 
-<h4>Contact</h4>
-You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
-
 <h4>I'm familiar with:</h4>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
+
+<h4>Contact</h4>
+You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
 
 <h4>Informative</h4>
 
