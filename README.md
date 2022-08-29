@@ -45,8 +45,6 @@ I code to find myself and impact people's lives.*
 * <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
 * <a href="mailto:leonardo.diman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat" /></a>
 
-You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
-
 <h4>Info</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
