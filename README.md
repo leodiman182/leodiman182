@@ -20,9 +20,12 @@ I code to find myself and impact people's lives.*
 
 *I've developed projects mainly using React.js, always assited by CSS frameworks, such as TailwindCSS (my favorite) and Bootstrap. I also had experience with Vue.js. Besides, in a big portion of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. I've been studying to specialize in React Native. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
-<h4>Minhas linguagens favoritas/ My favorite stacks:</h4>
+<h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/Testing Library-E33332?logo=testinglibrary&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/Docker-2496ED?logo=testinglibrary&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
