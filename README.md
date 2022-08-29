@@ -42,7 +42,7 @@ I code to find myself and impact people's lives.*
 
 <h4>Contato/Contact:</h4>
 
-You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank">Linkedin Page</a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
+You can check my <a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a> or contact me via email - <strong>leonardo.diman@gmail.com</strong>
 
 <h4>Info</h4>
 
