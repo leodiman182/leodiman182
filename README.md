@@ -32,7 +32,6 @@ I code to find myself and impact people's lives.*
 * <img src="https://img.shields.io/badge/BootstrapCSS-7952B3?logo=bootstrap&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=flat" />
 
 <h4>Estou acostumado com/ I'm familiar with:</h4>
