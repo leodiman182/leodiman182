@@ -18,7 +18,7 @@ I code to find myself and impact people's lives.*
 
 <p>Desenvolvi projetos principalmente em React.js, sempre utilizando algum framework de CSS - como TailwindCSS (meu favorito) e Bootstrap). Tive experiência também com Vue.js. Além disso, em grande parte dos projetos que trabalhei, havia integração com backend e APIs, em sua maioria em PHP (Laravel) e Node.js. Tenho estudado e pretendo me especializar em React Native. Tenho experiência, através do curso, em MySQL, Express para rotas, Jest e RTL para desenvolvimento de testes.</p>
 
-*I've developed projects mainly using React.js, always assited by CSS frameworks, such as TailwindCSS (my favorite) and Bootstrap. I also had experience with Vue.js. Besides, in a big portion of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. I've been studying to specialize in React Native. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
+*I've developed projects mainly using React.js, always assited by CSS frameworks, such as TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big portion of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. I've been studying to specialize in React Native. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
