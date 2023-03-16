@@ -4,6 +4,9 @@
 Olá! Eu sou o <strong>Leo</strong>! <br>
 *Hello there! I'm <strong>Leo</strong>*!
 
+Portfólio:
+https://portfolio-leodiman.vercel.app/
+
 <h4>Bio</h4>
 
 <p>Eu sou um desenvolvedor front-end apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Sempre encantado pelo mundo e suas diferentes culturas, me formei em Relações Internacionais. Busquei a transição de carreira através da Trybe, onde tive uma formação completa em Desenvolvimento Web. Eu comecei a estudar em Julho de 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
