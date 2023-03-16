@@ -5,7 +5,7 @@ Olá! Eu sou o <strong>Leo</strong>! <br>
 *Hello there! I'm <strong>Leo</strong>*!
 
 
-[Portfólio](https://link-url-here.org](https://portfolio-leodiman.vercel.app/)
+[Portfolio](https://portfolio-leodiman.vercel.app/)
 
 <h4>Bio</h4>
 
