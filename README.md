@@ -19,13 +19,13 @@ I code to find myself and impact people's lives.*
 
 <h4>Experiência/ Experience:</h4>
 
-<p>Desenvolvi projetos principalmente em React.js, sempre utilizando algum framework de CSS - como TailwindCSS (meu favorito) e Bootstrap). Tive experiência também com Vue.js. Além disso, em grande parte dos projetos que trabalhei, havia integração com backend e APIs, em sua maioria em PHP (Laravel) e Node.js. Tenho estudado e pretendo me especializar em React Native. Tenho experiência, através do curso, em MySQL, Express para rotas, Jest e RTL para desenvolvimento de testes.</p>
+<p>Desenvolvi projetos principalmente em React.js, utilizando CSS "cru" e frameworks como TailwindCSS (meu favorito) e Bootstrap. Atuei também em projetos em Vue.js. Além disso, em grande parte dos projetos que trabalhei, havia integração com backend e APIs, em sua maioria em PHP (Laravel) e Node.js. Na parte de frontend, para melhor ainda mais meu desenvolvimento, estou fazendo um curso fornecido pela Google de UX Design e também passei a utilizar a ferramenta Material UI como complementar. Tenho estudado e pretendo me especializar em React Native e Next.JS. Tenho experiência, através do curso, em MySQL, Express para rotas, Jest e RTL para desenvolvimento de testes.</p>
 
 *I've developed projects mainly using React.js, always assisted by CSS frameworks, such as TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big portion of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. I've been studying to specialize in React Native. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
-* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&?style=for-the-badge&logo=appveyor" />
+* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&style=for-the-badge&logo=appveyor" />
 * <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Testing Library-E33332?logo=testinglibrary&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
