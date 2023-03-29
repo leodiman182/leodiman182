@@ -1,5 +1,5 @@
 <h1>Leonardo Diman Martins :space_invader:</h1> 
-<h3>Front-end Developer</strong></h3>
+<h3>Fullstack Developer</strong></h3>
 
 Olá! Eu sou o <strong>Leo</strong>! <br>
 *Hello there! I'm <strong>Leo</strong>*!
@@ -9,11 +9,11 @@ Olá! Eu sou o <strong>Leo</strong>! <br>
 
 <h4>Bio</h4>
 
-<p>Eu sou um desenvolvedor front-end apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Sempre encantado pelo mundo e suas diferentes culturas, me formei em Relações Internacionais. Busquei a transição de carreira através da Trybe, onde tive uma formação completa em Desenvolvimento Web. Eu comecei a estudar em Julho de 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
+<p>Eu sou um desenvolvedor fullstack apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Sempre encantado pelo mundo e suas diferentes culturas, me formei em Relações Internacionais. Busquei a transição de carreira através da Trybe, onde tive uma formação completa em Desenvolvimento Web. Eu comecei a estudar em Julho de 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
 <br>
 Eu programo para me encontrar e impactar a vida das pessoas.</p>
 
-*I am a front-end developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
+*I am a fullstack developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
 <br>
 I code to find myself and impact people's lives.*
 
@@ -25,7 +25,7 @@ I code to find myself and impact people's lives.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
-* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&?style=for-the-badge&logo=appveyor" />
 * <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Testing Library-E33332?logo=testinglibrary&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
