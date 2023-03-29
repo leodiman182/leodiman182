@@ -13,7 +13,7 @@ Olá! Eu sou o <strong>Leo</strong>! <br>
 <br>
 Eu programo para me encontrar e impactar a vida das pessoas.</p>
 
-*I am a fullstack developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
+*I am a fullstack developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. Always passionate about the world and its different cultures, I graduated in International relations. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
 <br>
 I code to find myself and impact people's lives.*
 
@@ -21,13 +21,14 @@ I code to find myself and impact people's lives.*
 
 <p>Desenvolvi projetos principalmente em React.js, utilizando CSS "cru" e frameworks como TailwindCSS (meu favorito) e Bootstrap. Atuei também em projetos em Vue.js. Além disso, em grande parte dos projetos que trabalhei, havia integração com backend e APIs, em sua maioria em PHP (Laravel) e Node.js. Na parte de frontend, para melhor ainda mais meu desenvolvimento, estou fazendo um curso fornecido pela Google de UX Design e também passei a utilizar a ferramenta Material UI como complementar. Tenho estudado e pretendo me especializar em React Native e Next.JS. Tenho experiência, através do curso, em MySQL, Express para rotas, Jest e RTL para desenvolvimento de testes.</p>
 
-*I've developed projects mainly using React.js, always assisted by CSS frameworks, such as TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big portion of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. I've been studying to specialize in React Native. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
+*I've developed projects mainly using React.js, using "raw" CSS and frameworks like TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big part of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. In the front end part, to develope myself even more, I am completing a Google Certificate in UX Design. Also, I studied Material UI and started using it as a complementar tool. I've been studying to specialize in React Native and Next.JS. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
 * <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&style=for-the-badge&logo=appveyor" />
 * <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Testing Library-E33332?logo=testinglibrary&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
