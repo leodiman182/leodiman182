@@ -23,9 +23,10 @@ I code to find myself and impact people's lives.*
 
 *I've developed projects mainly using React.js, using "raw" CSS and frameworks like TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big part of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. In the front end part, to develope myself even more, I am completing a Google Certificate in UX Design. Also, I studied Material UI and started using it as a complementar tool. I've been studying to specialize in React Native and Next.JS. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
-<h4 style="text-align: center;">Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
 <div align="center">
+  <h4 style="text-align: center;">Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
+  
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
