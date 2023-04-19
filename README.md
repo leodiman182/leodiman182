@@ -41,9 +41,9 @@ I code to find myself and impact people's lives.*
 * <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black&style=flat" />
-* <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=black&style=flat" />
-* <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=white&style=flat" />
 
 <h4>Estou acostumado com/ I'm familiar with:</h4>
 
