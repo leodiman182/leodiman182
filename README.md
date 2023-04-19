@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Leonardo Diman Martins :space_invader:</h1> 
 <h3>Fullstack Developer</strong></h3>
 
@@ -24,7 +25,6 @@ I code to find myself and impact people's lives.*
 *I've developed projects mainly using React.js, using "raw" CSS and frameworks like TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big part of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. In the front end part, to develope myself even more, I am completing a Google Certificate in UX Design. Also, I studied Material UI and started using it as a complementar tool. I've been studying to specialize in React Native and Next.JS. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
 
 
-<div align="center">
   <h4 style="text-align: center;">Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
   
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -49,7 +49,6 @@ I code to find myself and impact people's lives.*
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-</div>
 
 <h4>Estou acostumado com/ I'm familiar with:</h4>
 
@@ -62,3 +61,5 @@ I code to find myself and impact people's lives.*
 * <a href="mailto:leonardo.diman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&locale=en" alt="leodiman182" /></p>
+</div>
+
