@@ -54,13 +54,11 @@ I code to find myself and impact people's lives.*
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<!-- * <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" /> -->
-<!-- * <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" /> -->
 
 <h4>Contato/Contact:</h4>
 
-<a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="mailto:leonardo.diman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=linux&logoColor=white" /></a>
+<a href="mailto:leonardo.diman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&locale=en" alt="leodiman182" /></p>
 </div>
