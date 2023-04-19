@@ -25,26 +25,26 @@ I code to find myself and impact people's lives.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
-* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&?style=flat-square" />
-* <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&&style=for-the-badge&style=flat" />
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-* <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Testing Library-E33332?logo=testinglibrary&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/BootstrapCSS-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+* <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+* <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+* <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+* <img src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+* <img src="https://img.shields.io/badge/material ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+* <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+* <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 * <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-* <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
-* <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
-* <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=white&style=flat" />
+* <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue&logoColor=white" />
+* <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+* <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+* <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+* <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+* <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+* <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+* <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+* <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+* <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 
 <h4>Estou acostumado com/ I'm familiar with:</h4>
 
