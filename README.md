@@ -25,7 +25,7 @@ I code to find myself and impact people's lives.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
-* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&style=for-the-badge&style=flat" />
+* <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black&&style=for-the-badge&style=flat" />
 * <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&&style=for-the-badge&style=flat" />
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
