@@ -51,6 +51,6 @@ I code to find myself and impact people's lives.*
 
 <h4>Info</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=leodiman182&count_private=true&theme=onedark&show_icons=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&theme=onedark)
