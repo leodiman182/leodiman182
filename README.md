@@ -25,7 +25,7 @@ I code to find myself and impact people's lives.*
 
 <h4>Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
 
-* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&style=for-the-badge&style=flat" />
+* <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&&?style=flat-square" />
 * <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&&style=for-the-badge&style=flat" />
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 * <img src="https://img.shields.io/badge/React Router-CA4245?logo=reactrouter&logoColor=white&style=flat" />
@@ -34,6 +34,7 @@ I code to find myself and impact people's lives.*
 * <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/BootstrapCSS-7952B3?logo=bootstrap&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=black&style=flat" />
+* <img src="https://img.shields.io/badge/Next.js-000000?logo=nextjs&logoColor=white&&style=for-the-badge&style=flat" />
 * <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 * <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" />
