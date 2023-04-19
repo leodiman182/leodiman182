@@ -30,7 +30,8 @@ I code to find myself and impact people's lives.*
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/react testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/material ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
