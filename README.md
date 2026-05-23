@@ -1,67 +1,130 @@
 <div align="center">
-<h1>Leonardo Diman Martins :space_invader:</h1> 
-<h3>Fullstack Developer</strong></h3>
 
-Olá! Eu sou o <strong>Leo</strong>! <br>
-*Hello there! I'm <strong>Leo</strong>*!
+# Leonardo Diman Martins
 
+### Mid-level Frontend Developer · 5 years of experience
 
+🟢 **Open to remote international opportunities — multicultural & multinational teams welcome**
 
-### [Portfolio](https://portfolio-leodiman.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-leodiman.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardodiman/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.diman@gmail.com)
 
-<h4>Bio</h4>
-
-<p>Eu sou um desenvolvedor fullstack apaixonado por tecnologia, design e música! Nascido nos anos 90 e atualmente residente de Bauru, SP - Brasil. Sempre encantado pelo mundo e suas diferentes culturas, me formei em Relações Internacionais. Busquei a transição de carreira através da Trybe, onde tive uma formação completa em Desenvolvimento Web. Eu comecei a estudar em Julho de 2021 e com pouco mais de 2 meses, consegui meu primeiro estágio, onde descobri a paixão pelo front-end.
-<br>
-Eu programo para me encontrar e impactar a vida das pessoas.</p>
-
-*I am a fullstack developer passionated by technology, design and music! Born in the 90's and currently living in Bauru, SP - Brazil. Always passionate about the world and its different cultures, I graduated in International relations. I sought a change of career through Trybe, where I fully graduated as a Web Developer. I've started studying web development in July, 2021 and within around 2 months, I got my first job, where I discovered a passion for front end development.
-<br>
-I code to find myself and impact people's lives.*
-
-<h4>Experiência/ Experience:</h4>
-
-<p>Desenvolvi projetos principalmente em React.js, utilizando CSS "cru" e frameworks como TailwindCSS (meu favorito) e Bootstrap. Atuei também em projetos em Vue.js. Além disso, em grande parte dos projetos que trabalhei, havia integração com backend e APIs, em sua maioria em PHP (Laravel) e Node.js. Na parte de frontend, para melhor ainda mais meu desenvolvimento, fiz um curso da Google de UX Design e também passei a utilizar a ferramenta Material UI como complementar. Tenho estudado e pretendo me especializar em React Native e Next.JS. Tenho experiência, através do curso, em MySQL, Express para rotas, Jest e RTL para desenvolvimento de testes.</p>
-
-*I've developed projects mainly using React.js, using "raw" CSS and frameworks like TailwindCSS (my favorite) and Bootstrap. I've also had experience with Vue.js. Besides, in a big part of the projects I was part of, there was some integrations with APIs and backend, mostly with PHP (Laravel) and Node.js. In the front end part, to develope myself even more, I am completing a Google Certificate in UX Design. Also, I studied Material UI and started using it as a complementar tool. I've been studying to specialize in React Native and Next.JS. Also, because of Trybe, I have experience with MySQL, express for routing, Jest and RTL for TDD.*
-
-
-  <h4 style="text-align: center;">Minhas linguagens/ferramentas favoritas/ My favorite stacks & tools:</h4>
-  
-  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/react testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/material ui-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-
-<h4>Estou acostumado com/ I'm familiar with:</h4>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<h4>Contato/Contact:</h4>
-
-<a href="https://www.linkedin.com/in/leonardodiman/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:leonardo.diman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&locale=en" alt="leodiman182" /></p>
 </div>
 
+---
+
+## About me
+
+Frontend developer with **5 years of experience** building mobile-first products, leading frontend architecture, and delivering polished user experiences from Figma to production. Comfortable owning technical decisions, conducting technical interviews, and collaborating with designers and backend teams in fast-moving agile environments.
+
+My path into tech is a bit unconventional: I hold a degree in **International Relations** and transitioned into software development through [Trybe](https://www.betrybe.com/) — a rigorous full-stack bootcamp with 1500+ hours of training. That background shapes how I think about products: with empathy, context, and a global lens.
+
+Actively looking for **international remote opportunities** — ideally in **multicultural, multinational teams** where diverse perspectives drive better products.
+
+When I'm not coding: **music**, **offroad & camping**, and **world cultures** keep me going.
+
+---
+
+## Tech Stack
+
+### Core — Daily drivers
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### State management
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Also comfortable with
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## Experience
+
+### 🟢 eSapiens — Mid-level Frontend Developer
+**May 2025 – Present · Remote, Brazil**
+
+- Building **Hotvips**, a mobile-first platform for content monetization — pixel-perfect Figma-to-production delivery
+- React, TypeScript, Zustand, Tailwind CSS, SCSS · backend integration via Axios and Node.js
+- Implemented social login (Google+) and a live streaming feature
+- Built a reusable promotion component system that significantly accelerated the team's delivery pace
+
+### Cotefácil — Mid-level Frontend Developer
+**Jun 2024 – May 2025 · Brazil**
+
+- Led frontend of a new **marketplace platform from scratch** — product discovery, UX/visual identity, and architecture in React.js + TypeScript
+- Managed deployments via **AWS Amplify** and conducted **technical interviews** for frontend candidates
+- Drove legacy **Java-to-React.js migration** with focus on performance, scalability, and code quality
+
+### Cotefácil — Junior Frontend Developer
+**Apr 2023 – Jun 2024 · Brazil**
+
+- Joined core team to modernize the platform: Java-to-React migration, bug fixing, new features, and performance-focused refactoring
+
+### AGA Tecnologia — Frontend Developer
+**Mar 2022 – Feb 2023 · Brazil**
+
+- Built responsive websites, apps, and client platforms using React.js, Vue.js, Tailwind CSS, Bootstrap, Laravel and Node.js
+- Managed backend integrations and API connections across multiple client projects
+
+### AGA Tecnologia — Junior Web Developer
+**Jun 2021 – Mar 2022 · Brazil**
+
+- First professional role — built websites using HTML, CSS, JavaScript and Bootstrap · started applying React.js
+
+---
+
+## Education
+
+| Period | Course | Institution |
+|--------|--------|-------------|
+| 2022 | Fullstack Web Development (1500+ hrs) | Trybe Bootcamp |
+| 2015 – 2018 | B.A. International Relations | Universidade do Sagrado Coração (USC) · Bauru, SP |
+
+---
+
+## Languages
+
+🇧🇷 **Portuguese** — Native · 🇺🇸 **English** — Professional / Advanced · 🇪🇸 **Spanish** — Intermediate
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Frontend developer who codes to find himself and impact people's lives.*<br>
+📍 Bauru, SP, Brazil · 🌎 Open to remote &amp; international
+
+</div>
