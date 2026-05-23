@@ -108,23 +108,3 @@ When I'm not coding: **music**, **offroad & camping**, and **world cultures** ke
 ## Languages
 
 🇧🇷 **Portuguese** — Native · 🇺🇸 **English** — Professional / Advanced · 🇪🇸 **Spanish** — Intermediate
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leodiman182&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodiman182&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
-
-*Frontend developer who codes to find himself and impact people's lives.*<br>
-📍 Bauru, SP, Brazil · 🌎 Open to remote &amp; international
-
-</div>
